@@ -1,4 +1,4 @@
-list_with_my_numbers = [2, 7, 8, 5, 4]
+list_with_my_numbers = [8, 7, 7, 5, 4]
 number_for_add = int(input('Введите новый элемент рейтинга (только натуральное число) : '))
 i = 0
 for n in list_with_my_numbers:
